@@ -1,0 +1,61 @@
+Equipos de trabajo: *Director de contenido:**Investigación
+                                           **Director creativo-Genera ideas
+                                           **Director de arte-Realiza las ideas
+                                           **Ejecutivo de medios-emisoras-periodicos-revistas
+                                           **Análisis
+
+
+
+
+
+Historia 1
+Director de contenidos
+Quiere verificar avances de la campaña
+Para llevar un control estricto sobre tiempos y contenidos y poderlo reportar
+
+Tareas pendientes-equipo-responsable
+Base de la campaña(Contenido, mensaje marca)
+Calendario de producción y de presentación(check)
+Métricas
+Lista de medios que transmitiran la campaña, la franja horaria(radio) y que transmitira cada uno
+Comunicación con los directores de cada area
+
+==================================================================================================
+**************************************************************************************************
+==================================================================================================
+
+Historia 2
+Director de area
+Delegar tareas a los miembros del equipo
+Para que cada miembro realize la labor en la que mejor se desempeña
+
+Lista de tareas
+Lista de los empleados
+Comunicarse con empleados, otros directores de area, director de contenidos
+Verificar(en caso de ser necesario) los avances de las otras areas
+Modificar las tareas
+Relaconar las tareas con las entregas de las otras areas
+
+==================================================================================================
+**************************************************************************************************
+==================================================================================================
+
+Historia 3
+Miembro del equipo
+Revisar tareas asignadas
+Iniciar el trabajo
+
+Ver que tarea se le asigno
+Con que otras tareas está relacionada y quien la maneja
+Descripción de la tarea
+Modificar estado de la tarea
+Ver fechas de entrega
+Acceso a entregas de las otras areas relacionadas con su tarea
+
+==================================================================================================
+**************************************************************************************************
+==================================================================================================
+
+Historia 4
+Gerente de la empresa
+Ver el estado de las campañas y sus costos
