@@ -1,0 +1,33 @@
+***Tablas****
+Empleados:*id
+          *Nombre
+          *apellido
+          *correo
+          *telefono
+          *password
+          *Equipo(id del equipo)
+          *Area(id del area)
+          *Funcion(id de puesto)
+
+Areas:*id
+      *Nombre de area
+
+
+Equipos:*id
+        *Nombre del equipo
+
+Campañas:*id
+         *Nombre
+         *Equipo(id del equipo)
+
+Cargos:*id
+       *Nombre
+
+Tareas:*id
+       *Titulo
+       *descripción
+       *encargado(id empleado)
+       *Fecha de inicio
+       *Fecha límite de entrega
+       *Estado
+       *Entrega
