@@ -59,3 +59,30 @@ Acceso a entregas de las otras areas relacionadas con su tarea
 Historia 4
 Gerente de la empresa
 Ver el estado de las campañas y sus costos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Historia 1
+Propietario de pyme
+Ver paquetes, combos y servicios que ofrece la empresa
+Encontrar un plan que se ajuste a mis necesidades y presupuesto
+
+Botón que me lleve a la sección de servicios completa
+Panel con planes ofrecidos por la empresa para el desarrollo de una campaña
+Precios de los servicios individuales y de los planes que ofrece la empresa
+
+============================================================================
+
+Historia 2
+Empleado de la empresa
