@@ -1,6 +1,6 @@
 const router = require('express').Router();
-const categoriaController = require('../../controllers/CategoriaController.js');
-const auth = require('../../middlewares/auth.js');
+const categoriaController = require('../controllers/CategoriaController');
+const auth = require('../middlewares/auth.js');
 
 router.get('/list', auth.verifyUsuario, categoriaController.list);
 router.post('/add', auth.verifyUsuario, categoriaController.add);
